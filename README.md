@@ -10,8 +10,8 @@ A simple CRUD REST API
 
 Routes:
 
-POST - Create personality
-GET - Get all Personalities
-GET - Get Personality by Id
-DELETE - Delete a Personality
-PUT - Update a Personality
+POST - Create personality <br />
+GET - Get all Personalities <br />
+GET - Get Personality by Id <br />
+DELETE - Delete a Personality <br />
+PUT - Update a Personality <br />
